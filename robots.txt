@@ -1,1 +1,1 @@
-Sitemap: https://farlandliu.github.io/sitemap.xml
+Sitemap: https://farlandliu.github.io/post/sitemap.xml
